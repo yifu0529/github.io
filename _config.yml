@@ -2,5 +2,5 @@ title: Yifu Eve Ding
 logo: /img/photo.jpeg
 description: I am a post-doctoal associate at MIT energy initiative. My research focus is xxxx. I obtained my PhD degree in Engineering Science from University of Oxford, and my master degree in Sustainable Energy Futures at Imperial College London 
 show_downloads: False
-google_analytics:
+#google_analytics:
 theme: jekyll-theme-minimal
