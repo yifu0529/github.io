@@ -1,4 +1,4 @@
-[Teaching](https://yifueve.github.io/teaching/)
+[CV](https://yifueve.github.io/CV/) | [Teaching](https://yifueve.github.io/teaching/) | [Research Projects](https://yifueve.github.io/projects/)
 
 
 [2023.1]  I started the post-doctoral research associate at MIT energy initiative!
