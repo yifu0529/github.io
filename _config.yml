@@ -8,3 +8,5 @@ theme: jekyll-theme-minimal
 social_media:
   twitter: yifu0529
 
+include: ['Pages']
+
