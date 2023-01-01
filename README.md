@@ -22,7 +22,7 @@ Optimal power flow analysis.
 
 Microgrid design and control under extreme conditions.
 
-## Science Talks
+## Science talks
 
 My friend and I started and run the engineering society at Wolfson College, Oxford Univerisity, with more than 100 members. We seek for and host speakers in Science & Engineering, particular in machine learning applications, open-source data and tools. If you are interested in giving a talk, please contact me or the president Dr. Ping Lu (ping.lu@eng.ox.ac.uk). 
 
