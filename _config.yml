@@ -1,15 +1,8 @@
 title: Yifu Eve Ding
 logo: /img/photo.jpeg
-email: you@example.com
 
-github:
-  is_project_page: False
-
-description: I am a post-doctoal associate at MIT energy initiative. My research focus is xxxx. I obtained my PhD degree in Engineering Science from University of Oxford, and my master degree in Sustainable Energy Futures at Imperial College London 
+description: I am a post-doc at MIT energy initiative. I completed my D.Phil. in Engineering Science, University of Oxford. My research interests include machine learning probabilistic forecasting, data-driven control and optimisation for energy systems considering uncertainty
 show_downloads: False
 theme: jekyll-theme-minimal
-social_media:
-  twitter_username: yifu0529
-
 include: ['Pages']
 
