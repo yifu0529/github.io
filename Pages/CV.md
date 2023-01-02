@@ -38,3 +38,6 @@ China National Renewable Energy Center July 2018 - Sep 2018
 - Research Intern in CREO team Beijing, China
 - China Renewable Energy Outlook (CREO) 2018 was published in COP 24 Climate Conference at the Danish State of Green pavilion & Chinese pavilion.
 - Developing the power system and heating optimization model for CREO 2018.
+
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) Jan 2018 - July 2018
+- Research Associate in Sino-German Energy Transition Project, Beijing, China
