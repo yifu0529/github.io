@@ -5,3 +5,6 @@ description: Post-doc at MIT Energy Initiative | Ph.D. in Engineering Science, O
 show_downloads: False
 theme: jekyll-theme-minimal
 include: ['Pages']
+
+plugins:
+  - jemoji
