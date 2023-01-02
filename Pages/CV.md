@@ -31,3 +31,15 @@ Imperial College London                                                         
 
 The University of Edinburgh                                                                                   Sep 2012 - Sep 2016, First-Class
 - B.Eng. in Electrical and Electronics Engineering
+
+**PROFESSIONAL**
+
+China National Renewable Energy Center July 2018 - Sep 2018
+- Research Intern in CREO team Beijing, China
+- China Renewable Energy Outlook (CREO) 2018 was published in COP 24 Climate Conference at the Danish State of Green pavilion & Chinese pavilion.
+- Participated in developing the power system and heating optimization model for CREO 2018 (model software, data visualization and making infographics).
+
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) Jan 2018 - July 2018 Research Associate in Sino-German Energy Transition Project, Beijing, China
+- Monitored China environmental & energy policies and updated policy databases (English) monthly.
+- Made monthly China Energy Policy Newsletter (English, Over 100 subscribers) and wrote internal/external short reports on a range of energy topics.
+- Co-organized the workshop ?Future Grid Planning in China: What can China learn from Europe?? and invited 30 guests from academia, government and NGOs.
