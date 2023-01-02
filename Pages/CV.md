@@ -41,6 +41,5 @@ China National Renewable Energy Center July 2018 - Sep 2018
 
 GIZ GmbH Jan 2018 - July 2018
 - Research Associate in Sino-German Energy Transition Project, Beijing, China
-- Monitored China environmental & energy policies and updated policy databases (English) monthly.
 - Made monthly China Energy Policy Newsletter (English, Over 100 subscribers) and wrote internal/external short reports.
-- Co-organized the workshop ?Future Grid Planning in China: What can China learn from Europe?? inviting 30 guests from academia, government and NGOs.
+- Co-organized the workshop *Future Grid Planning in China: What can China learn from Europe* and invited 30 guests from academia, government and NGOs.
