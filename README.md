@@ -12,15 +12,15 @@
 
 The reliability of power systems under the impact of increasing renewable penetration and extreme weather conditions is a rising concern globally. My research interests include machine learning probabilistic forecasting, data-driven control and optimisation for energy systems considering uncertainty. My works aim to find appealing solutions in both system design and short-term operations. I have specific research interests in:
 
-Machine learning probabilistic forecasting.
+- Machine learning probabilistic forecasting.
 
-Joint chance-constrained optimization.
+- Joint chance-constrained optimization.
 
-Distributionally robust modelling.
+- Distributionally robust modelling.
 
-Optimal power flow analysis.
+- Optimal power flow analysis.
 
-Microgrid design and control under extreme conditions.
+- Microgrid design and control under extreme conditions.
 
 ## Science talks
 
