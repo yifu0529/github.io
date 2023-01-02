@@ -2,7 +2,7 @@
 layout: projects
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A summary of my research projects in reverse chronological order.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
@@ -10,7 +10,7 @@ horizontal: false
 
 ---
 
-Distributionally robust joint chance-constrained optimization for networked microgrids
+**Distributionally robust joint chance-constrained optimization for networked microgrids**
 
 *Energy and Power Group, University of Oxford* 
 
