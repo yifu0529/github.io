@@ -8,6 +8,9 @@ nav: true
 nav_order: 1
 ---
 
+
+<br />
+
 *2022*
 
 -Y. Ding, T. Morstyn and M. D. McCulloch, "Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2022.3150397.
