@@ -10,9 +10,9 @@ horizontal: false
 
 ---
 
-content:
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+##Distributionally robust joint chance-constrained optimization for networked microgrids in sub- Saharan Africa
+###### Energy and Power Group, University of Oxford Oct 2018 - April 2022
+- The project is supported by the EPSRC project, Robust Extra low-cost solar nano-grid (RELCON).
+- Created load profiles for rural energy-poor communities and solar power prediction model.
+- Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies
 
