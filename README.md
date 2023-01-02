@@ -16,7 +16,7 @@ Machine learning probabilistic forecasting.
 
 Joint chance-constrained optimization.
 
-Distribution robust modelling.
+Distributionally robust modelling.
 
 Optimal power flow analysis.
 
