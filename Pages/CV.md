@@ -20,7 +20,7 @@ The University of Oxford                                                     			
 - D.Phil. in Engineering Science
 - Thesis title: Bridging probabilistic forecasts and power system optimization considering uncertainty: A joint chance-constrained perspective
 - Supervisor: Prof. Malcolm McCulloch   
-- Examiner: Prof. Pierre Pinson & Prof. Kostas Margellos
+- Examiners: Prof. Pierre Pinson & Prof. Kostas Margellos
 
 Johns Hopkins University                                                                       	     April 2022 - October 2022
 - Visiting student in Environmental Health and Engineering, Whiting School of Engineering
@@ -37,4 +37,4 @@ The University of Edinburgh                                                     
 China National Renewable Energy Center July 2018 - Sep 2018
 - Research Intern in CREO team Beijing, China
 - China Renewable Energy Outlook (CREO) 2018 was published in COP 24 Climate Conference at the Danish State of Green pavilion & Chinese pavilion.
-- Developing the power system and heating optimization model for CREO 2018 (model software, data visualization and making infographics).
+- Developing the power system and heating optimization model for CREO 2018.
