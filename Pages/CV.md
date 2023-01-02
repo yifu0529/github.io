@@ -37,4 +37,4 @@ The University of Edinburgh                                                     
 China National Renewable Energy Center July 2018 - Sep 2018
 - Research Intern in CREO team Beijing, China
 - China Renewable Energy Outlook (CREO) 2018 was published in COP 24 Climate Conference at the Danish State of Green pavilion & Chinese pavilion.
-- Participated in developing the power system and heating optimization model for CREO 2018 (model software, data visualization and making infographics).
+- Developing the power system and heating optimization model for CREO 2018 (model software, data visualization and making infographics).
