@@ -2,7 +2,7 @@
 layout: publications
 permalink: /publications/
 title: publications
-description: A summary of my publications in reversed chronological order. My google scholar profile is here.
+description: A summary of my publications in reversed chronological order. My google scholar profile is [here] (https://scholar.google.co.uk/citations?user=OzBUWyEAAAAJ&hl=en).
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
@@ -24,3 +24,6 @@ nav_order: 1
 **Before 2020**
 
 - Data Study Group, Green Radio: Dynamic power saving configuration for mobile networks, The Alan Turing Institute Report, 2020, http://doi.org/10.5281/zenodo.3786852.
+
+- Y. Ding, R. Moreira, D. Cedillos, Assessment of the Value of Frequency Response Times in Power Systems, IEEE PES Innovative Smart Grid Technologies Europe, 2019, doi: 10.1109/ISGTEurope.2019.8905596
+
