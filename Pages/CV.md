@@ -10,7 +10,7 @@ nav_order: 5
 
 **ACADEMIC POSITIONS**
 
-Massachusetts Institute of Technology                                                                                     Jan 2023 - Dec 2023
+Massachusetts Institute of Technology                                                                                     Jan 2023 - present
 - Postdoctoral Research Associate, MIT energy initiative
 - Advisor: Dr. Dharik Mallapragada
 
