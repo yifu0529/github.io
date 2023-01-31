@@ -2,7 +2,7 @@
 
 ## Updates
 
-[2023.01]  I joined in C3E Woman in Engineering at MIT!
+[2023.01]  I joined in C3E Woman in Energy at MIT!
 
 [2023.01]  I started the post-doctoral research associate at MIT energy initiative!
 
