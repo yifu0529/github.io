@@ -2,11 +2,9 @@
 
 ## Updates
 
-[2023.01]  I joined C3E Woman in Energy at MIT!
+[2023.01] I joined C3E Woman in Energy at MIT.
 
-[2023.01]  I started the post-doctoral research associate at MIT energy initiative!
-
-[2022.12] This website says 'Hello World'.
+[2023.01] I started the post-doctoral research associate at MIT energy initiative!
 
 [2022.12] I completed my DPhil degree in Oxford with minor correction!
 
