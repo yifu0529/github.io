@@ -12,7 +12,7 @@ horizontal: false
 
 **Game-theoretical market framework for networked microgrids leveraging probabilistic net-load forecasting**
 
-* Prof. Hobbs' group, Whiting School of Engineering, John Hopkins University (JHU)*		April 2022 – October 2022
+*Prof. Hobbs' group, Whiting School of Engineering, John Hopkins University (JHU)*		April 2022 – October 2022
 
 - Develop deep learning neural networks for the weather-informed probabilistic predictions of net loads.
 - Evaluate different risk-aware formulations considering uncertain reserve service provisions from renewable microgrids. 
