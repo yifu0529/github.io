@@ -28,4 +28,7 @@ horizontal: false
 - Clustered sectors of signal towers for improving scalability and summarized implications of reinforcement learning (RL) in future works. 
 - The research outcome has been published as a co-authored official report on the Turing website page. 
 
+<h2>Turing photos</h2>
+<img src="/img/turing.JPG" alt="Turing_photos">
+
 
