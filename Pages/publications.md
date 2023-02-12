@@ -1,8 +1,9 @@
 ---
 layout: publications
 permalink: /publications/
-title: publications
-description: A summary of my publications in reversed chronological order. My google scholar profile is <a href="https://twitter.com/yifu0529"> here.</a>
+title: Publications
+description: A summary of my publications in reversed chronological order. My google scholar profile is <a href="https://twitter.com/yifu0529"> here.</a>. I am a reviewer of IEEE transactions of power systems, sustainable energy and smart grids. I am happy to review works in the relevant fields. 
+
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
