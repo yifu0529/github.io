@@ -18,3 +18,14 @@ horizontal: false
 - Created load profiles for rural energy-poor communities and solar power prediction model.
 - Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies
 
+**Green Radio: Dynamic power saving configuration for mobile networks**
+
+*The Alan Turing Institute, London*             							    Sep 2019
+
+- The project collaborator is one of the world's largest mobile telecommunications companies, Telenor. 
+- Forecasted day-ahead demands of 200 signal towers using five state-of-the-art ML algorithms.  
+- Designed the activation policies for recommending day-ahead power-saving schemes.
+- Clustered sectors of signal towers for improving scalability and summarized implications of reinforcement learning (RL) in future works. 
+- The research outcome has been published as a co-authored official report on the Turing website page. 
+
+
