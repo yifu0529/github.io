@@ -10,9 +10,9 @@ horizontal: false
 
 ---
 
-**Game-theoretical market framework for networked microgrids leveraging probabilistic net-load forecasting**
+**Risk-aware game framework for coordianting microgrids in the energy and reserve markets**
 
-*Prof. Hobbs' group, Whiting School of Engineering, John Hopkins University (JHU)*		April 2022 – October 2022
+*Prof. Hobbs' group, Whiting School of Engineering, Johns Hopkins University (JHU)*		April 2022 – October 2022
 
 - Develop deep learning neural networks for the weather-informed probabilistic predictions of net loads.
 - Evaluate different risk-aware formulations considering uncertain reserve service provisions from renewable microgrids. 
@@ -21,11 +21,11 @@ horizontal: false
 
 **Distributionally robust joint chance-constrained optimization for networked microgrids**
 
-*Energy and Power Group, University of Oxford* 
+*Energy and Power Group (Led by Prof. McCulloch) & Power Electronics Group (Led by Prof. Rogers), University of Oxford* 
 
 - The project is supported by the EPSRC project, Robust Extra low-cost solar nano-grid (RELCON).
 - Created load profiles for rural energy-poor communities and solar power prediction model.
-- Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies
+- Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies.
 
 **Green Radio: Dynamic power saving configuration for mobile networks**
 
