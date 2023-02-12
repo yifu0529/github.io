@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: projects
+title: Research Projects
 permalink: /projects/
 description: A summary of my research projects in reverse chronological order.
 nav: true
@@ -9,6 +9,15 @@ display_categories: [work, fun]
 horizontal: false
 
 ---
+
+**Game-theoretical market framework for networked microgrids leveraging probabilistic net-load forecasting**
+
+* Prof. Hobbs' group, Whiting School of Engineering, John Hopkins University (JHU)*		April 2022 – October 2022
+
+- Develop deep learning neural networks for the weather-informed probabilistic predictions of net loads.
+- Evaluate different risk-aware formulations considering uncertain reserve service provisions from renewable microgrids. 
+- Model players' strategic bidding and offerings in the power markets using the game-theoretical framework.
+
 
 **Distributionally robust joint chance-constrained optimization for networked microgrids**
 
@@ -28,7 +37,7 @@ horizontal: false
 - Clustered sectors of signal towers for improving scalability and summarized implications of reinforcement learning (RL) in future works. 
 - The research outcome has been published as a co-authored official report on the Turing website page. 
 
-<h2>Turing photos</h2>
+<h2> </h2>
 <img src="/img/turing.JPG" alt="Turing_photos">
 
 
