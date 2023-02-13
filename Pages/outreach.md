@@ -2,7 +2,8 @@
 layout: outreach
 permalink: /outreach/
 title: Academic Outreach
-description: 
+description: I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic. 
+
 nav: true
 nav_order: 5
 ---
@@ -12,7 +13,10 @@ nav_order: 5
 *Science & Technology Section editor, The Oxford Student* 			                                          Oct 2019 - Dec 2019
 + Reviewed and edited articles weekly for the sci-tech sections for the biggest student newspaper (over 15,000 paper copies to every college and online article over 2000+ views on average).  
 + Intweviewed leading research teams in Oxford and wrote articles. 
-+ Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and CERN team. <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a> .  
++ Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and CERN team. <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a>.
+
+<h2> </h2>
+<img src="/img/newspaper.jpg" alt="photos">
 
 **College**
 
