@@ -17,7 +17,7 @@ horizontal: false
 - Developed deep learning neural networks for the weather-informed probabilistic predictions of net loads.
 - Evaluated different risk-aware formulations considering uncertain reserve service provisions from renewable microgrids. 
 - Modeled players' strategic bidding and offerings in the power markets using the game-theoretical framework.
-- The research has been submitted in jounral and conference. 
+- The research has been submitted to jounral and conference. 
 
 **Distributionally robust joint chance-constrained optimization for networked microgrids**
 
@@ -27,7 +27,7 @@ horizontal: false
 - Modeled the power flow in the networked microgrids considering droop control and smart load shedding.
 - Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies.
 - Developed an easy and fast solving method for the NP-hard optimal Bonferroni approximation.
-- The research has been published in IEEE Smart Grids jounral and CDC conference. 
+- The research is published in IEEE Smart Grids jounral and CDC conference. 
 
 **Green Radio: Dynamic power saving configuration for mobile networks**
 
@@ -37,7 +37,7 @@ horizontal: false
 - Forecasted day-ahead demands of 200 signal towers using five state-of-the-art ML algorithms.  
 - Designed the activation policies for recommending day-ahead power-saving schemes.
 - Clustered sectors of signal towers for improving scalability and summarized implications of reinforcement learning (RL) in future works. 
-- The research has been published as a co-authored report on the Turing website page. 
+- The research is published as a co-authored report on the Turing website page. 
 
 <h2> </h2>
 <img src="/img/turing.JPG" alt="Turing_photos">
