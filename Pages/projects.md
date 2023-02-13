@@ -23,7 +23,7 @@ horizontal: false
 
 *Energy and Power Group (Led by Prof. McCulloch) & Power Electronics Group (Led by Prof. Rogers), University of Oxford* 
 
-- The project is supported by the EPSRC project, Robust Extra low-cost solar nano-grid (RELCON).
+- The project is supported by EPSRC project, Robust Extra low-cost solar nano-grid (RELCON), to develop microgrids for energy-poor communities.
 - Modeled the power flow in the networked microgrids considering droop control and smart load shedding.
 - Constructed a distributionally robust joint chance-constrained optimization (DR-JCC) framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies.
 - Developed an easy and fast solving method for the NP-hard optimal Bonferroni approximation.
