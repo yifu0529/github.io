@@ -8,7 +8,7 @@ nav: true
 nav_order: 5
 ---
 
-*I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic.*
+*I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, find a fuller life during pandemic.*
 
 **University** 
 
