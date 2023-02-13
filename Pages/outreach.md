@@ -20,9 +20,6 @@ nav_order: 5
 <h2> </h2>
 <img src="/img/newspaper.jpg" alt="newspaper">
 
-<h2> </h2>
-<img src="/img/turing.JPG" alt="Turing_photos">
-
 **College**
 
 *Vice-Chair, Social & Cultural Committee of Wolfson College*	                                             June 2020 – Apr 2021 
