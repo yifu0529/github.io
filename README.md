@@ -21,10 +21,3 @@ The reliability of power systems under the impact of increasing renewable penetr
 - Optimal power flow analysis.
 
 - Microgrid design and control under extreme conditions.
-
-## Recent invited talks
-
-“Bridging machine learning probabilistic forecasting design and power system optimization considering uncertainty: A distributionally robust perspective” Energy Futures Lab Alumni talk, Imperial college London (10 May 2022).
-“The impact of weather information on machine-learning probabilistic electricity demand predictions”, NeurIPS 2021 conference women in machine learning workshop (6-14 Dec 2021, full funded student) 
-“Distributionally robust joint chance-constrained optimization for networked microgrid considering contingencies and renewable uncertainty”, Modeling and forecasting to enhance short-term power system operations session, INFORMS Annual meeting 2021 (22-26 July 2021, Prof. Benjamin Hobbs’s panel)
-“Green Radio: Dynamic power saving configuration for mobile networks”, The Alan Turing Institute, London (2-6 Sep 2019, full funded student)
