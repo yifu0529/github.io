@@ -2,7 +2,7 @@
 layout: publications
 permalink: /publications/
 title: Publications
-description: A summary of my publications in reversed chronological order. My google scholar profile is <a href="https://twitter.com/yifu0529"> here.</a>.  
+description: A summary of my publications in reversed chronological order. My google scholar profile is <a href="https://twitter.com/yifu0529"> here </a>.  
 
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true

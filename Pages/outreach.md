@@ -18,7 +18,7 @@ nav_order: 5
 + Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and CERN team. <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a>.
 
 <h2> </h2>
-<img src="/img/newspaper.jpg" alt="photos">
+<img src="/img/newspaper.jpg" alt="newspaper">
 
 **College**
 
@@ -28,7 +28,7 @@ nav_order: 5
 + Filmed the collge virtual tour for freshers <a href="https://www.youtube.com/watch?v=TA7pkYPkD2I"> [link] </a> .  
 
 <h2> </h2>
-<img src="/img/introduce.JPG" alt="photos">
+<img src="/img/introduce.JPG" alt="introduce">
 
 ## Science talks :wave:
 
