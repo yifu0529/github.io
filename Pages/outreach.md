@@ -2,11 +2,13 @@
 layout: Outreach
 permalink: /outreach/
 title: Academic Outreach
-description: I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic. 
+description: 
 
 nav: true
 nav_order: 5
 ---
+
+**I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic.** 
 
 **University** 
 
