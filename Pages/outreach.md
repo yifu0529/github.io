@@ -8,7 +8,7 @@ nav: true
 nav_order: 5
 ---
 
-**I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic.** 
+*I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, isolated life during pandemic.*
 
 **University** 
 
@@ -28,7 +28,7 @@ nav_order: 5
 + Filmed the collge virtual tour for freshers <a href="https://www.youtube.com/watch?v=TA7pkYPkD2I"> [link] </a> .  
 
 <h2> </h2>
-<img src="/img/introduce.JPG" alt="introduce">
+<img src="/img/introduce.jpg" alt="introduce">
 
 ## Science talks :wave:
 
