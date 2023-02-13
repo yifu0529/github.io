@@ -18,7 +18,7 @@ nav_order: 5
 + Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and CERN team. <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a>.
 
 <h2> </h2>
-<img src="/img/newspaper.jpg" alt="newspaper">
+<img src="/img/newspaper.png" alt="newspaper">
 
 **College**
 
