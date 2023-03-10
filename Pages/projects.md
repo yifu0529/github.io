@@ -10,7 +10,7 @@ horizontal: false
 
 ---
 
-**Risk-aware game framework for coordianting microgrids in the energy and reserve markets**
+**Risk-aware game framework for coordinating microgrids in the energy and reserve markets**
 
 *Prof. Hobbs' group, Whiting School of Engineering, Johns Hopkins University (JHU)*		April 2022 – October 2022
 
