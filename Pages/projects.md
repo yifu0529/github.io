@@ -17,7 +17,7 @@ horizontal: false
 - Developed deep learning neural networks for the weather-informed probabilistic predictions of net loads.
 - Evaluated different risk-aware formulations considering uncertain reserve service provisions from renewable microgrids. 
 - Modeled players' strategic bidding and offerings in the power markets using the game-theoretical framework.
-- The research has been submitted to jounral and conference. 
+- The research has been submitted to journal and conference. 
 
 **Distributionally robust joint chance-constrained optimization for networked microgrids**
 
@@ -27,7 +27,7 @@ horizontal: false
 - Modeled the power flow in the networked microgrids considering droop control and smart load shedding.
 - Constructed a distributionally robust joint chance-constrained optimization framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies.
 - Developed an easy and fast solving method for the NP-hard optimal Bonferroni approximation.
-- The research is published in IEEE Smart Grids jounral and CDC conference. 
+- The research is published in IEEE Smart Grids and CDC conference. 
 
 **Green Radio: Dynamic power saving configuration for mobile networks**
 
