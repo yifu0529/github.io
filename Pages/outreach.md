@@ -13,8 +13,8 @@ nav_order: 5
 **University** 
 
 *Science & Technology Section editor, The Oxford Student* 			                                          Oct 2019 - Dec 2019
-+ Reviewed and edited articles weekly for the sci-tech sections for the biggest student newspaper (over 15,000 paper copies to every college and online article over 2000+ views on average).  
-+ Intweviewed leading research teams in Oxford and wrote articles. 
++ Reviewed and edited articles weekly for the sci-tech sections for the biggest student newspaper (over 15,000 paper copies to every college and article with over 2000+ views on average).  
++ Interviewed leading research teams in Oxford and wrote articles. 
 + Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and CERN team. <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a>.
 
 <h2> </h2>
