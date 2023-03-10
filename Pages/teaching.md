@@ -10,7 +10,7 @@ nav_order: 5
 **Teaching** 
 
 *Third-year tutor in control systems, University of Oxford* 			                   Oct 2021 - Sep 2022
-+ Arrange tutorials and teach 16 third-year undergraduates in the course control systems.
++ Arranged tutorials and taught 16 third-year undergraduates in the course control systems.
 + Modules: Linear control, optimal control, Kalman filter and controller performance.
 + Course organizers: Prof. Kostas Margellos, Prof. Stephen Duncan
 
