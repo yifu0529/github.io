@@ -27,7 +27,7 @@ horizontal: false
 - Modeled the power flow in the networked microgrids considering droop control and smart load shedding.
 - Constructed a distributionally robust joint chance-constrained optimization framework for controlling networked microgrids considering solar generation uncertainty and utility contingencies.
 - Developed an easy and fast solving method for the NP-hard optimal Bonferroni approximation.
-- The research is published in IEEE Smart Grids and CDC conference. 
+- The research is published at IEEE Smart Grids and CDC conference. 
 
 **Green Radio: Dynamic power saving configuration for mobile networks**
 
