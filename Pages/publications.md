@@ -12,6 +12,10 @@ nav_order: 1
 
 <br />
 
+**2023**
+
+- Y. Ding, S.Wang and B. Hobbs, "Distributionally robust chance constrained game for coordinating renewable microgrids in energy and reserve markets," The 14th ACM International Conference on Future Energy Systems (First-round review passed and revising).
+
 **2022**
 
 - Y. Ding, T. Morstyn and M. D. McCulloch, "Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2022.3150397.
