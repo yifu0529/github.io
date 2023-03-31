@@ -14,7 +14,7 @@ nav_order: 1
 
 **2023**
 
-- Y. Ding, S.Wang and B. Hobbs, "Distributionally robust chance constrained game for coordinating renewable microgrids in energy and reserve markets," The 14th ACM International Conference on Future Energy Systems (First-round review passed and revising).
+- Y. Ding, S. Wang and B. Hobbs, "Distributionally robust chance constrained game for coordinating renewable microgrids in energy and reserve markets," The 14th ACM International Conference on Future Energy Systems (First-round review passed and revising).
 
 **2022**
 
