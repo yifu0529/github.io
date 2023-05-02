@@ -2,6 +2,8 @@
 
 ## Updates
 
+[2023.05] Our paper, Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model, has been accepted.
+
 [2023.01] I joined C3E Woman in Energy at MIT.
 
 [2023.01] I started the post-doctoral research associate at MIT energy initiative!
