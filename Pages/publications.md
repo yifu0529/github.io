@@ -14,9 +14,9 @@ nav_order: 1
 
 **2023**
 
-- Y.Ding, B.Hobbs, "Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach, (Pre-print after revisions), https://arxiv.org/abs/2306.12644
+- Y.Ding, B. Hobbs, "Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach, (Pre-print after revisions), https://arxiv.org/abs/2306.12644
 
-- Y. Ding, S. Wang and B. Hobbs, "Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model", The 14th ACM International Conference on Future Energy Systems.
+- Y. Ding, S. Wang, and B. Hobbs, "Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model", The 14th ACM International Conference on Future Energy Systems.
 
 **2022**
 
