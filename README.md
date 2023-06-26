@@ -8,8 +8,6 @@
 
 [2023.05] I gave a talk at MIT LIDS, [Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach](https://lids.mit.edu/news-and-events/events/joint-chance-constrained-game-coordinating-microgrids-energy-and-reserve).
 
-[2023.05] Our paper, Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model, has been accepted.
-
 [2023.05] I published [my PhD thesis](https://ora.ox.ac.uk/objects/uuid:68b15749-d3ff-441f-8093-d42575cf70cc).
 
 [2023.01] I joined C3E Woman in Energy at MIT.
