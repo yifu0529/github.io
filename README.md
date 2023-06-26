@@ -2,7 +2,7 @@
 
 ## Updates
 
-[2023.05] I attended the 14th ACM e-energy conference and gave a talk for our paper.
+[2023.06] I attended the 14th ACM e-energy conference and gave a talk for our paper.
 
 [2023.05] I gave a talk at MIT LIDS, Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach.
 
