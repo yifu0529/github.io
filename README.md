@@ -2,6 +2,8 @@
 
 ## Updates
 
+[2023.06] I published a pre-print, [Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach](https://arxiv.org/abs/2306.12644).
+
 [2023.06] I attended the 14th ACM e-energy conference and gave a talk for our paper.
 
 [2023.05] I gave a talk at MIT LIDS, [Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach](https://lids.mit.edu/news-and-events/events/joint-chance-constrained-game-coordinating-microgrids-energy-and-reserve).
