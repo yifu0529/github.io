@@ -1,7 +1,7 @@
 [CV](https://yifueve.github.io/cv/) | [Teaching](https://yifueve.github.io/teaching/) | [Projects](https://yifueve.github.io/projects/) |[Publications](https://yifueve.github.io/publications/) | [Awards](https://yifueve.github.io/award/)| [Outreach](https://yifueve.github.io/outreach/)
 
 ## Updates
-[2023.06] I gave a talk at MIT Civil and Environmental Engineering.
+[2023.07] I gave a talk at MIT Civil and Environmental Engineering.
 
 [2023.06] I published a pre-print, [Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach](https://arxiv.org/abs/2306.12644).
 
