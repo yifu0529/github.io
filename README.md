@@ -2,6 +2,8 @@
 
 ## Updates
 
+[2023.09] I did a poster presentation in 2023 C3E annual conference.
+
 [2023.07] I gave a talk at MIT Civil and Environmental Engineering.
 
 [2023.06] I published a pre-print, [Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach](https://arxiv.org/abs/2306.12644).
