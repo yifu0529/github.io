@@ -23,7 +23,7 @@ nav_order: 5
 **College**
 
 *Vice-Chair, Social & Cultural Committee of Wolfson College*	                                             June 2020 – Apr 2021 
-+ Participated in and co-organized college events each year (Freshers' week, Wolfson College ball committee 2019).  
++ Co-organized college events (Freshers' week, Wolfson College ball committee 2019).  
 + Co-managed all students’ societies (20+) and major virtual/online social events at Wolfson college. 
 + Filmed the college virtual tour for freshers <a href="https://www.youtube.com/watch?v=TA7pkYPkD2I"> [link] </a> .  
 
