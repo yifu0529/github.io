@@ -2,7 +2,7 @@
 
 ## Updates
 
-[2023.09] I did a [poster presentation]([https://www.dropbox.com/home/C3E_video_poster?preview=2023+C3E+Poster_Yifu_Ding_MIT.pdf](https://github.com/yifueve/yifueve.github.io/blob/design/img/2023%20C3E%20Poster_Yifu_Ding_MIT.pdf)) in 2023 C3E annual conference.
+[2023.09] I did a [poster presentation](https://github.com/yifueve/yifueve.github.io/blob/design/img/2023%20C3E%20Poster_Yifu_Ding_MIT.pdf) in 2023 C3E annual conference.
 
 [2023.07] I gave a talk at MIT Civil and Environmental Engineering.
 
