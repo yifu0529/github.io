@@ -12,7 +12,7 @@ nav_order: 5
 
 Massachusetts Institute of Technology                                                                   May 2024 - present
 - Postdoctoral Research Associate, MIT energy initiative
-- Advisor: Prof. Thomas Magnanti
+- Advisor: Professor Thomas Magnanti
 
 Massachusetts Institute of Technology                                                                   Jan 2023 - April 2024 
 - Postdoctoral Research Associate, MIT energy initiative
