@@ -10,9 +10,13 @@ nav_order: 5
 
 **ACADEMIC POSITIONS**
 
-Massachusetts Institute of Technology                                                                   Jan 2023 - present
+Massachusetts Institute of Technology                                                                   May 2024 - present
 - Postdoctoral Research Associate, MIT energy initiative
-- Advisor: Dr. Dharik Mallapragada
+- Advisor: Prof. Thomas Magnanti
+
+Massachusetts Institute of Technology                                                                   Jan 2023 - April 2024 
+- Postdoctoral Research Associate, MIT energy initiative
+- Advisor: Dr. Dharik Mallapragada, Dr. Robert Stoner
 
 **EDUCATION**
 
