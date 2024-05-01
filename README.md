@@ -1,6 +1,6 @@
 [CV](https://yifueve.github.io/cv/) | [Teaching](https://yifueve.github.io/teaching/) | [Projects](https://yifueve.github.io/projects/) |[Publications](https://yifueve.github.io/publications/) | [Awards](https://yifueve.github.io/award/)| [Outreach](https://yifueve.github.io/outreach/)
 
-I am post-doctoral research associated at MIT Energy Initiative, and I am supervised and funded by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) 
+I am a post-doctoral research associate at MIT Energy Initiative, and I have been fortunate to be supervised and funded by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) 
 
 
 ## Research interests
